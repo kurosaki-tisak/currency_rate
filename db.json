@@ -1,0 +1,126 @@
+[
+  {
+    "title": "AUD",
+    "rate": 1.5879
+  },
+  {
+    "title": "BGN",
+    "rate": 1.9558
+  },
+  {
+    "title": "BRL",
+    "rate": 4.4515
+  },
+  {
+    "title": "CHF",
+    "rate": 1.1328
+  },
+  {
+    "title": "CNY",
+    "rate": 7.8683
+  },
+  {
+    "title": "CZK",
+    "rate": 25.765
+  },
+  {
+    "title": "DKK",
+    "rate": 7.4676
+  },
+  {
+    "title": "GBP",
+    "rate": 0.90318
+  },
+  {
+    "title": "HKD",
+    "rate": 8.9241
+  },
+  {
+    "title": "HRK",
+    "rate": 7.419
+  },
+  {
+    "title": "HUF",
+    "rate": 322.9
+  },
+  {
+    "title": "IDR",
+    "rate": 16471.67
+  },
+  {
+    "title": "ILS",
+    "rate": 4.2835
+  },
+  {
+    "title": "INR",
+    "rate": 80.116
+  },
+  {
+    "title": "ISK",
+    "rate": 138.8
+  },
+  {
+    "title": "JPY",
+    "rate": 128.11
+  },
+  {
+    "title": "KRW",
+    "rate": 1284.2
+  },
+  {
+    "title": "MXN",
+    "rate": 22.8738
+  },
+  {
+    "title": "MYR",
+    "rate": 4.7661
+  },
+  {
+    "title": "NOK",
+    "rate": 9.9375
+  },
+  {
+    "title": "NZD",
+    "rate": 1.663
+  },
+  {
+    "title": "PHP",
+    "rate": 60.535
+  },
+  {
+    "title": "PLN",
+    "rate": 4.2833
+  },
+  {
+    "title": "RON",
+    "rate": 4.6655
+  },
+  {
+    "title": "RUB",
+    "rate": 77.0444
+  },
+  {
+    "title": "SEK",
+    "rate": 10.3393
+  },
+  {
+    "title": "SGD",
+    "rate": 1.5623
+  },
+  {
+    "title": "THB",
+    "rate": 37.311
+  },
+  {
+    "title": "TRY",
+    "rate": 6.086
+  },
+  {
+    "title": "USD",
+    "rate": 1.1405
+  },
+  {
+    "title": "ZAR",
+    "rate": 16.2602
+  }
+]
